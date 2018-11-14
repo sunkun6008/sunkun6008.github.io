@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[你好]]></title>
+    <url>%2F2018%2F11%2F14%2Faa%2F</url>
+    <content type="text"><![CDATA[测试2]]></content>
+      <categories>
+        <category>相册</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[博客搭建目的]]></title>
+    <url>%2F2018%2F11%2F14%2Fan%2F</url>
+    <content type="text"><![CDATA[HELLO WORD]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+</search>
