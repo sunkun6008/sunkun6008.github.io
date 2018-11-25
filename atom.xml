@@ -18,9 +18,9 @@
   
   <entry>
     <title>生信环境建立————bioconda的安装与使用</title>
-    <link href="http://yoursite.com/2018/11/18/%E7%94%9F%E4%BF%A1%E7%8E%AF%E5%A2%83%E5%BB%BA%E7%AB%8B%E2%80%94%E2%80%94%E2%80%94%E2%80%94bioconda%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
-    <id>http://yoursite.com/2018/11/18/生信环境建立————bioconda的安装与使用/</id>
-    <published>2018-11-18T03:23:47.000Z</published>
+    <link href="http://yoursite.com/2018/11/24/%E7%94%9F%E4%BF%A1%E7%8E%AF%E5%A2%83%E5%BB%BA%E7%AB%8B%E2%80%94%E2%80%94%E2%80%94%E2%80%94bioconda%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
+    <id>http://yoursite.com/2018/11/24/生信环境建立————bioconda的安装与使用/</id>
+    <published>2018-11-24T03:06:24.170Z</published>
     <updated>2018-08-09T16:00:00.000Z</updated>
     
     <summary type="html">
@@ -43,10 +43,34 @@
   </entry>
   
   <entry>
+    <title>博客搭建目的</title>
+    <link href="http://yoursite.com/2018/11/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9A%84%E7%9B%AE%E7%9A%84/"/>
+    <id>http://yoursite.com/2018/11/24/博客搭建的目的/</id>
+    <published>2018-11-24T03:06:24.164Z</published>
+    <updated>2018-08-09T16:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;每个人做事都有自己的动机或者目的，无论这个动机或者目的是出于什么，是正当还是不正当，但总归是有的，有目的，才有做下去的希望，才有坚持的动力。总的来说&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我建立个人博客主页的目的，更大的可能是因为想要有一个属于自己的天空，在自己的天空或者说世界里挥洒笔墨，说的简单点，有一方面的原因是想排解生活中的压抑，在生活中可能很难找到一个全心全意听你诉说，听你倾吐的人，所以还是自己写出来吧，也算是排解的一种方式，当然还有一方面的原因是为了学习。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="个人想法" scheme="http://yoursite.com/tags/%E4%B8%AA%E4%BA%BA%E6%83%B3%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Linux系统————ubuntu 18.04的安装及美化</title>
-    <link href="http://yoursite.com/2018/11/18/Linux%E7%B3%BB%E7%BB%9F%E2%80%94%E2%80%94%E2%80%94%E2%80%94ubuntu%2018.04%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E7%BE%8E%E5%8C%96/"/>
-    <id>http://yoursite.com/2018/11/18/Linux系统————ubuntu 18.04的安装及美化/</id>
-    <published>2018-11-18T02:57:11.000Z</published>
+    <link href="http://yoursite.com/2018/11/24/Linux%E7%B3%BB%E7%BB%9F%E2%80%94%E2%80%94%E2%80%94%E2%80%94ubuntu%2018.04%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E7%BE%8E%E5%8C%96/"/>
+    <id>http://yoursite.com/2018/11/24/Linux系统————ubuntu 18.04的安装及美化/</id>
+    <published>2018-11-24T03:06:24.157Z</published>
     <updated>2018-08-09T16:00:00.000Z</updated>
     
     <summary type="html">
@@ -69,30 +93,6 @@
       <category term="ubuntu" scheme="http://yoursite.com/tags/ubuntu/"/>
     
       <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博客搭建目的</title>
-    <link href="http://yoursite.com/2018/11/18/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9A%84%E7%9B%AE%E7%9A%84/"/>
-    <id>http://yoursite.com/2018/11/18/博客搭建的目的/</id>
-    <published>2018-11-18T02:15:12.000Z</published>
-    <updated>2018-08-09T16:00:00.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;每个人做事都有自己的动机或者目的，无论这个动机或者目的是出于什么，是正当还是不正当，但总归是有的，有目的，才有做下去的希望，才有坚持的动力。总的来说&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我建立个人博客主页的目的，更大的可能是因为想要有一个属于自己的天空，在自己的天空或者说世界里挥洒笔墨，说的简单点，有一方面的原因是想排解生活中的压抑，在生活中可能很难找到一个全心全意听你诉说，听你倾吐的人，所以还是自己写出来吧，也算是排解的一种方式，当然还有一方面的原因是为了学习。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-      <category term="个人想法" scheme="http://yoursite.com/tags/%E4%B8%AA%E4%BA%BA%E6%83%B3%E6%B3%95/"/>
     
   </entry>
   
