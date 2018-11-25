@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>学府</title>
   
-  <subtitle>路漫漫其修远兮，吾将上下而求索</subtitle>
+  <subtitle>花开落叶</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>生信环境建立————bioconda的安装与使用</title>
-    <link href="http://yoursite.com/2018/11/24/%E7%94%9F%E4%BF%A1%E7%8E%AF%E5%A2%83%E5%BB%BA%E7%AB%8B%E2%80%94%E2%80%94%E2%80%94%E2%80%94bioconda%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
-    <id>http://yoursite.com/2018/11/24/生信环境建立————bioconda的安装与使用/</id>
+    <link href="http://yoursite.com/2018/11/24/sheng-xin-huan-jing-jian-li-bioconda-de-an-zhuang-yu-shi-yong/"/>
+    <id>http://yoursite.com/2018/11/24/sheng-xin-huan-jing-jian-li-bioconda-de-an-zhuang-yu-shi-yong/</id>
     <published>2018-11-24T03:06:24.170Z</published>
     <updated>2018-08-09T16:00:00.000Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>博客搭建目的</title>
-    <link href="http://yoursite.com/2018/11/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9A%84%E7%9B%AE%E7%9A%84/"/>
-    <id>http://yoursite.com/2018/11/24/博客搭建的目的/</id>
+    <link href="http://yoursite.com/2018/11/24/bo-ke-da-jian-de-mu-de/"/>
+    <id>http://yoursite.com/2018/11/24/bo-ke-da-jian-de-mu-de/</id>
     <published>2018-11-24T03:06:24.164Z</published>
     <updated>2018-08-09T16:00:00.000Z</updated>
     
@@ -68,8 +68,8 @@
   
   <entry>
     <title>Linux系统————ubuntu 18.04的安装及美化</title>
-    <link href="http://yoursite.com/2018/11/24/Linux%E7%B3%BB%E7%BB%9F%E2%80%94%E2%80%94%E2%80%94%E2%80%94ubuntu%2018.04%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E7%BE%8E%E5%8C%96/"/>
-    <id>http://yoursite.com/2018/11/24/Linux系统————ubuntu 18.04的安装及美化/</id>
+    <link href="http://yoursite.com/2018/11/24/linux-xi-tong-ubuntu-18.04-de-an-zhuang-ji-mei-hua/"/>
+    <id>http://yoursite.com/2018/11/24/linux-xi-tong-ubuntu-18.04-de-an-zhuang-ji-mei-hua/</id>
     <published>2018-11-24T03:06:24.157Z</published>
     <updated>2018-08-09T16:00:00.000Z</updated>
     

@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://yoursite.com/archives/index.html</loc>
     
-    <lastmod>2018-11-25T02:23:18.253Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/pho/index.html</loc>
-    
-    <lastmod>2018-11-24T12:29:38.481Z</lastmod>
+    <lastmod>2018-11-25T07:10:09.192Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/dog/index.html</loc>
+    <loc>http://yoursite.com/tags/index.html</loc>
     
-    <lastmod>2018-11-24T12:29:32.062Z</lastmod>
+    <lastmod>2018-11-25T07:09:01.407Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
-    <lastmod>2018-11-13T16:23:50.781Z</lastmod>
+    <lastmod>2018-11-25T07:08:33.130Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2018-11-25T07:07:52.386Z</lastmod>
     
   </url>
   
@@ -37,28 +37,21 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2018-11-13T16:12:05.382Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/11/24/Linux%E7%B3%BB%E7%BB%9F%E2%80%94%E2%80%94%E2%80%94%E2%80%94ubuntu%2018.04%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E7%BE%8E%E5%8C%96/</loc>
+    <loc>http://yoursite.com/2018/11/24/linux-xi-tong-ubuntu-18.04-de-an-zhuang-ji-mei-hua/</loc>
     
     <lastmod>2018-08-09T16:00:00.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/11/24/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9A%84%E7%9B%AE%E7%9A%84/</loc>
+    <loc>http://yoursite.com/2018/11/24/bo-ke-da-jian-de-mu-de/</loc>
     
     <lastmod>2018-08-09T16:00:00.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/11/24/%E7%94%9F%E4%BF%A1%E7%8E%AF%E5%A2%83%E5%BB%BA%E7%AB%8B%E2%80%94%E2%80%94%E2%80%94%E2%80%94bioconda%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</loc>
+    <loc>http://yoursite.com/2018/11/24/sheng-xin-huan-jing-jian-li-bioconda-de-an-zhuang-yu-shi-yong/</loc>
     
     <lastmod>2018-08-09T16:00:00.000Z</lastmod>
     
