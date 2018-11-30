@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-09T16:00:00.000Z</updated>
+  <updated>2018-11-30T17:04:47.245Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客的基本框架及使用方法</title>
+    <link href="http://yoursite.com/2018/11/30/bo-ke-de-ji-ben-kuang-jia-ji-shi-yong-fang-fa/"/>
+    <id>http://yoursite.com/2018/11/30/bo-ke-de-ji-ben-kuang-jia-ji-shi-yong-fang-fa/</id>
+    <published>2018-11-30T15:35:51.000Z</published>
+    <updated>2018-11-30T17:04:47.245Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;&amp;amp;emsp&amp;amp;emsp身为一名博主，我认为有责任为每一名访客介绍一下自己&lt;code&gt;博客的布局&lt;/code&gt;，以及&lt;code&gt;各方面的内容简介&lt;/code&gt;，这样才算是一名合格的博主，也只有这样才能让访客&lt;code&gt;以最短的时间了解到自己所要了解到的东西&lt;/code&gt;，节省自己的时间和精力，毕竟浪费别人的时间等同于谋财害命，所以想了想还是简单介绍一下为好。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="学习，linux" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%EF%BC%8Clinux/"/>
+    
+  </entry>
   
   <entry>
     <title>生信环境建立————bioconda的安装与使用</title>
