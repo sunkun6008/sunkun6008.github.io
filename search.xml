@@ -32,9 +32,9 @@
         <category>SQL</category>
       </categories>
       <tags>
+        <tag>学习</tag>
         <tag>SQL</tag>
         <tag>基础</tag>
-        <tag>学习</tag>
       </tags>
   </entry>
   <entry>
@@ -59,8 +59,8 @@
         <category>html</category>
       </categories>
       <tags>
-        <tag>基础</tag>
         <tag>学习</tag>
+        <tag>基础</tag>
         <tag>网页制作</tag>
         <tag>html</tag>
       </tags>
@@ -73,8 +73,8 @@
         <category>R语言</category>
       </categories>
       <tags>
-        <tag>基础</tag>
         <tag>学习</tag>
+        <tag>基础</tag>
         <tag>R语言</tag>
       </tags>
   </entry>
@@ -122,9 +122,9 @@
         <category>linux</category>
       </categories>
       <tags>
-        <tag>学习</tag>
         <tag>Linux</tag>
         <tag>ubuntu</tag>
+        <tag>学习</tag>
       </tags>
   </entry>
 </search>
