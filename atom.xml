@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-15T15:50:33.606Z</updated>
+  <updated>2019-01-25T15:51:16.083Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>露在何方</title>
+    <link href="http://yoursite.com/2019/01/25/lu-zai-he-fang-ren-sheng-gan-xiang/"/>
+    <id>http://yoursite.com/2019/01/25/lu-zai-he-fang-ren-sheng-gan-xiang/</id>
+    <published>2019-01-25T15:19:32.000Z</published>
+    <updated>2019-01-25T15:51:16.083Z</updated>
+    
+    <summary type="html">
+    
+      The article has been encrypted, please enter your password to view.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title>生信学习（一）</title>
     <link href="http://yoursite.com/2018/12/14/sheng-xin-xue-xi-yi/"/>
     <id>http://yoursite.com/2018/12/14/sheng-xin-xue-xi-yi/</id>
     <published>2018-12-14T11:45:46.000Z</published>
-    <updated>2018-12-15T15:50:33.606Z</updated>
+    <updated>2019-04-18T01:28:38.802Z</updated>
     
     <summary type="html">
+    
+      The article has been encrypted, please enter your password to view.&lt;br&gt;
     
     </summary>
     
@@ -41,9 +63,11 @@
     <link href="http://yoursite.com/2018/12/14/tong-ji-fen-xi-spss-xue-xi-yi/"/>
     <id>http://yoursite.com/2018/12/14/tong-ji-fen-xi-spss-xue-xi-yi/</id>
     <published>2018-12-14T11:44:52.000Z</published>
-    <updated>2018-12-15T15:52:51.541Z</updated>
+    <updated>2019-04-18T01:30:20.524Z</updated>
     
     <summary type="html">
+    
+      The article has been encrypted, please enter your password to view.&lt;br&gt;
     
     </summary>
     
@@ -61,20 +85,22 @@
     <link href="http://yoursite.com/2018/12/14/sql-ji-chu/"/>
     <id>http://yoursite.com/2018/12/14/sql-ji-chu/</id>
     <published>2018-12-14T11:43:55.000Z</published>
-    <updated>2018-12-15T15:49:26.923Z</updated>
+    <updated>2019-04-18T01:29:32.944Z</updated>
     
     <summary type="html">
+    
+      The article has been encrypted, please enter your password to view.&lt;br&gt;
     
     </summary>
     
       <category term="SQL" scheme="http://yoursite.com/categories/SQL/"/>
     
     
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
       <category term="SQL" scheme="http://yoursite.com/tags/SQL/"/>
     
       <category term="基础" scheme="http://yoursite.com/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
@@ -83,9 +109,11 @@
     <link href="http://yoursite.com/2018/12/14/python-ji-chu/"/>
     <id>http://yoursite.com/2018/12/14/python-ji-chu/</id>
     <published>2018-12-14T11:42:54.000Z</published>
-    <updated>2018-12-15T15:48:08.134Z</updated>
+    <updated>2019-04-18T01:29:49.595Z</updated>
     
     <summary type="html">
+    
+      The article has been encrypted, please enter your password to view.&lt;br&gt;
     
     </summary>
     
@@ -105,9 +133,11 @@
     <link href="http://yoursite.com/2018/12/14/wang-ye-zhi-zuo-html-ji-chu/"/>
     <id>http://yoursite.com/2018/12/14/wang-ye-zhi-zuo-html-ji-chu/</id>
     <published>2018-12-14T11:42:08.000Z</published>
-    <updated>2018-12-15T15:52:36.603Z</updated>
+    <updated>2019-04-18T01:28:58.604Z</updated>
     
     <summary type="html">
+    
+      The article has been encrypted, please enter your password to view.&lt;br&gt;
     
     </summary>
     
@@ -116,9 +146,9 @@
       <category term="html" scheme="http://yoursite.com/categories/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C/html/"/>
     
     
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
       <category term="基础" scheme="http://yoursite.com/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
       <category term="网页制作" scheme="http://yoursite.com/tags/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C/"/>
     
@@ -142,9 +172,9 @@
       <category term="R语言" scheme="http://yoursite.com/categories/R%E8%AF%AD%E8%A8%80/"/>
     
     
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
       <category term="基础" scheme="http://yoursite.com/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
       <category term="R语言" scheme="http://yoursite.com/tags/R%E8%AF%AD%E8%A8%80/"/>
     
@@ -238,11 +268,11 @@
       <category term="linux" scheme="http://yoursite.com/categories/linux/"/>
     
     
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
       <category term="Linux" scheme="http://yoursite.com/tags/Linux/"/>
     
       <category term="ubuntu" scheme="http://yoursite.com/tags/ubuntu/"/>
-    
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
